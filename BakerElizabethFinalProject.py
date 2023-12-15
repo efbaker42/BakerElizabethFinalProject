@@ -1,8 +1,8 @@
 """
-Final Project DRAFT
-Elizabeth Baker
-13DEC2023
-This program will accept an atomic number and a number of atoms.
+Name: MolCalc
+Author: Elizabeth Baker
+Last Modified: 14DEC2023
+Purpose: This program will accept an atomic number and a number of atoms.
 It will output the molecular weight of the molecule.
 """
 
